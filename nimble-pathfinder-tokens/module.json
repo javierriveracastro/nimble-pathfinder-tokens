@@ -1,0 +1,35 @@
+{
+  "id": "nimble-pathfinder-tokens",
+  "title": "Nimble - Pathfinder Tokens",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Javier Rivera",
+      "email": "javierriveracastro@gmail.com",
+      "discord": "javierrivera",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "nimble",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-bestiaries",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}
