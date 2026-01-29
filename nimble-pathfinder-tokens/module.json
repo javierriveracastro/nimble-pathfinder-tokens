@@ -15,7 +15,19 @@
     }
   ],
   "flags": {
-    "canUpload": true
+    "canUpload": true,
+    "compendiumArtMappings": {
+      "nimble": {
+        "mapping": "modules/nimble-pathfinder-tokens/module/map-bestiaries.json",
+        "credit": "<em>Portrait, token, and subject artwork from Pathfinder Tokens: Bestiaries.</em>"
+      }
+    },
+    "tokenRingSubjectMappings": {
+      "modules/pf2e-tokens-bestiaries/tokens/": "modules/pf2e-tokens-bestiaries/subjects/"
+    },
+    "pf2e-tokens-bestiaries": {
+      "nimble-art": "modules/nimble-pathfinder-tokens/module/map-bestiaries.json"
+    }
   },
   "relationships": {
     "requires": [
@@ -30,6 +42,5 @@
         "compatibility": {}
       }
     ]
-  },
-  "description": ""
+  }
 }

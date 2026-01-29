@@ -1,0 +1,22 @@
+{
+  "nimble.nimble-monsters": {
+    "vrqkmCllLRNFP3wk": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/basilisk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/basilisk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mythological/basilisk.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}
