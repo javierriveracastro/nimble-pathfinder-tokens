@@ -1,0 +1,25 @@
+name: Release CI
+
+on:
+  push:
+    paths:
+      - 'CHANGELOG.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create zip file
+        run: zip -r ./nimble-pathfinder-tokens.zip nimble-pathfinder-tokens
+      - name: Create release
+        id: create_latest_release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          name: Latest
+          draft: true
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: 'nimble-pathfinder-tokens/module.json, nimble-pathfinder-tokens.zip'
+          tag: latest
