@@ -3,11 +3,13 @@ name: Release CI
 on:
   push:
     paths:
-      - 'CHANGELOG.md'
+      - "CHANGELOG.md"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
       - name: Create zip file
@@ -21,5 +23,5 @@ jobs:
           draft: true
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: 'nimble-pathfinder-tokens/module.json, nimble-pathfinder-tokens.zip'
+          artifacts: "nimble-pathfinder-tokens/module.json, nimble-pathfinder-tokens.zip"
           tag: latest
