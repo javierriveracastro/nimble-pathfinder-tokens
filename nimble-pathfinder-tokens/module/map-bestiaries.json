@@ -755,6 +755,240 @@
           }
         }
       }
+    },
+    "Ar9aCw1NbCbFC11U": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/fungus-leshy.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/fungus-leshy.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/plant/leshy/fungus-leshy.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "UvgXMSWKrPWqtJgv": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/arboreal/arboreal-reaper.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/arboreal/arboreal-reaper.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/plant/arboreal/arboreal-reaper.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "helYUT1m9nYqh4mC": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/scythe-tree.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/scythe-tree.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/plant/scythe-tree.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "zUR4X7UV37zHrDF2": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/plant/assassin-vine.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/plant/assassin-vine.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/plant/assassin-vine.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "w464OFhPTQGwLFZp": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/bulette.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/bulette.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mythological/bulette.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "BSiFuESoO19XNaBx": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/coil-spy.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/coil-spy.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/darklands/coil-spy.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YjKhjwiYoNrrhXfo": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/tiefling-adept.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/tiefling-adept.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/tiefling-adept.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "cQ2wucZ7mz1wXSRR": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/opossum-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/opossum-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mammalian/opossum-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "1z0344rf5edBa077": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/aapoph-serpentfolk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/aapoph-serpentfolk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/darklands/aapoph-serpentfolk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "vSrolkz0JjAqA1fw": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/zyss-serpentfolk.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/zyss-serpentfolk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/darklands/zyss-serpentfolk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "34sqnNwhGhVQvZPD": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/stag-beetle-giant.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/stag-beetle-giant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/invertebrate/stag-beetle-giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "iTOZ7qow3Hh7VsGf": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-scout.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-scout.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/kobold/kobold-scout.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Di9DjWDN5qAm65sa": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-mage-blue.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-mage-blue.webp",
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/humanoid/kobold/kobold-mage-blue.webp",
+            "scale": 1.5
+          }
+        }
+      }
     }
   }
 }
