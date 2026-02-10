@@ -989,6 +989,78 @@
           }
         }
       }
+    },
+    "R24pjE8ntXNVd1Ah": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/web-lurker.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/web-lurker.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/aberrant/humanoid/web-lurker.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "zDKPmCy5DbGdkJLU": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/ether-spider.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/ether-spider.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/invertebrate/ether-spider.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "rV8kgeKs7wRL55j6": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grioth-cultist.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/grioth-cultist.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/aberrant/humanoid/grioth-cultist.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "UqUuKtAWlOrDkAFy": {
+      "actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/sinspawn-wrath.webp",
+      "token": {
+        "randomImg": false,
+        "texture": {
+          "src": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/sinspawn-wrath.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-bestiaries/subjects/aberrant/humanoid/sinspawn-wrath.webp",
+            "scale": 1
+          }
+        }
+      }
     }
   }
 }
